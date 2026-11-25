@@ -1,76 +1,44 @@
-# NemoSTM — Roku Edition
-
-### Smart TV Streaming Application
-
-![Roku](https://img.shields.io/badge/Roku-662D91?style=for-the-badge&logo=roku&logoColor=white)
-![BrightScript](https://img.shields.io/badge/BrightScript-662D91?style=for-the-badge)
-![SceneGraph](https://img.shields.io/badge/SceneGraph-8B5CF6?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Under_Review-orange?style=for-the-badge)
-
-## About the Project
-
-NemoSTM is a Smart TV streaming application developed
-for Roku OS, featuring a modern interface and
-remote-control navigation.
-
-The application integrates media playback, content
-organization and device management.
-
-## Key Features
-
-- Live TV playback
-- Movies and TV series catalog
-- Category navigation
-- Global content search
-- Favorites management
-- Integrated mini-player
-- Movie and series information
-- Season and episode navigation
-- Xtream and MAC-based access
-- Device and license management integration
-- Custom purple neon visual identity
-
-## Technologies
-
-- BrightScript
-- Roku SceneGraph
-- XML
-- REST API
-- JSON
-- Supabase
-- Media streaming
-
-## Application Screenshots
-
-Screenshots will be added to demonstrate the
-application interface and its main features.
-
-## Development Status
-
-- Application development completed
-- Core playback functionality tested
-- Submitted for Roku application evaluation
-- Certification pending
-
-## Source Code
-
-This repository is intended for portfolio
-presentation and project documentation.
-
-The application source code is proprietary
-and is not publicly distributed.
-
-## Developer
-
-**Neemias Rocha**
-
-Independent Software Developer — Brazil
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neemias-rocha-15ab141b2/)
 
 ---
 
-NemoSTM | Smart TV Software Development
+## Application Interface
+
+AI-enhanced interface illustrations based on the actual NemoSTM Roku application.
+
+### Home Screen
+
+![Home Screen](Tela%20inicial%20neon%20do%20Nemo%20IPTV.png)
+
+### Live TV
+
+![Live TV](Tela%20de%20Canais%20ao%20Vivo%20Nemo%20IPTV.png)
+
+### Movies Catalog
+
+![Movies](Interface%20Neon%20de%20Filmes%20em%20Roxo.png)
+
+### Series and Episodes
+
+![Series](Interface%20neon%20de%20Friends%20no%20NemoSTM.png)
+
+### Video Player
+
+![Player](Player%20NEMO%20IPTV%20com%20Ajustes%20de%20Tela.png)
+
+### General Settings
+
+![Settings](Configurações%20Neon%20do%20Nemo%20IPTV.png)
+
+### Content Library
+
+![Library](Biblioteca%20Nemo%20IPTV%20em%20Neon%20Roxo.png)
+
+### Authentication
+
+![Login](Login%20Nemo%20IPTV%20em%20Neon%20Roxo.png)
+
+### Loading Screen
+
+![Loading](Tela%20Neon%20Roxa%20de%20Carregamento%20IPTV.png)
+
+---
